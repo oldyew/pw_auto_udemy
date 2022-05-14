@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$.py.class
+
+# folders
+.idea/
+.pytest_cache/
+
+# reporting
+reports/
+
+# logs
+*.log
+
+# secure info
+secure.json
